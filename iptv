@@ -135,27 +135,51 @@ http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" group-title="国际",NBA TV
 http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-#EXTINF:-1 ,明珠台group-title="港台"
-http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-#EXTINF:-1 ,明珠台group-title="港台"
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,翡翠华丽group-title="港台"
-http://23.237.10.66:16410
-#EXTINF:-1 ,翡翠台group-title="港台"
-http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-#EXTINF:-1 ,翡翠台group-title="港台"
-http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
-#EXTINF:-1 ,翡翠台group-title="港台"
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:-1 ,翡翠台group-title="港台"
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,TVBSgroup-title="港台"
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 ,TVBS欢乐台group-title="港台"
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-#EXTINF:-1 ,TVBS新闻group-title="港台"
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,TVBS新闻台group-title="港台"
+#EXTINF:-1 tvg-id="TVBS新闻台" group-title="港台"
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 ,TVBS亚洲group-title="港台"
+#EXTINF:-1 tvg-id="TVBS亚洲" group-title="港台"
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="中视HD" group-title="港台"
+http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1 ,民视
+http://23.237.10.66:16334
+#EXTINF:-1 ,民视
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 ,民视HD
+http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1 ,民视第一台
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 ,民视台湾台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,动物星球
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 ,国家地理野生
+http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 ,华视
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 ,华视
+http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+#EXTINF:-1 ,三立综合
+http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 ,纬来体育台
+http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+#EXTINF:-1 ,星空卫视
+http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 ,中视
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+#EXTINF:-1 ,中视HD
+http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1 ,中视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 ,中天新闻
+http://123.51.230.124:8535/.m3u8
+#EXTINF:-1 ,中天新闻
+http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
+#EXTINF:-1 ,中天新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 ,综艺
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
